@@ -1,5 +1,5 @@
 class Example{
 public static void main(String args[]){
-System.out.println("Welcome to Jenkins CI");
+System.out.println("Welcome to Jenkins CII");
 }
 }
